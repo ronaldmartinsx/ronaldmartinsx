@@ -13,17 +13,7 @@
   <img src="https://img.shields.io/badge/Manaus,%20AM-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" alt="Manaus, AM">
 </p>
 
-Construo o caminho inteiro do dado: da ingestão até a pergunta que o diretor faz na reunião.
-
-Hoje trabalho com dado de locadora de frotas B2B (faturamento, inadimplência, telemetria, ciclo de vida do veículo) num lakehouse no **Microsoft Fabric**, com consumo em **Power BI**. Fora do expediente, os projetos abaixo são onde testo arquitetura nova de ponta a ponta.
-
-### 🧭 Três coisas que levo para todo projeto
-
-> 🧱 **Regra de negócio tem um lugar só.** Fica na camada de dados, versionada e testada, nunca espalhada em SQL solto ou em coluna calculada de relatório.
->
-> 🚦 **Problema de qualidade se marca e se mede, nunca se apaga.** Um `INNER JOIN` descuidado esconde receita sem avisar ninguém.
->
-> 🗣️ **O painel responde uma pergunta por tela, em português de gente.** Quem lê o número não precisa saber interpretar a fórmula.
+Engenharia de dados de ponta a ponta: ingestão que roda sozinha, arquitetura medalhão com qualidade de dado declarada, camada semântica testada no CI e o painel que a diretoria abre na segunda de manhã. Os projetos abaixo são onde isso está escrito e rodando.
 
 ### 🚀 Projetos
 
@@ -51,17 +41,6 @@ Hoje trabalho com dado de locadora de frotas B2B (faturamento, inadimplência, t
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-</p>
-
-### 📊 Por aqui
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldmartinsx&show_icons=true&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only" height="150" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmartinsx&layout=compact&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only" height="150" alt="Linguagens mais usadas">
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldmartinsx&show_icons=true&hide_border=true&locale=pt-br&theme=github_dark#gh-dark-mode-only" height="150" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmartinsx&layout=compact&hide_border=true&locale=pt-br&theme=github_dark#gh-dark-mode-only" height="150" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
